@@ -1,0 +1,13 @@
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+.button {
+   background-color: black;
+   color: white;
+}
+#more-important {
+    background-color: yellow;
+    color: black;
+}
